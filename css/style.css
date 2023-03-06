@@ -508,6 +508,9 @@ form textarea {
     .navbar.active {
         top: 100%;
     }
+    .contact-icons i {
+        margin-bottom: 5px;
+    }
     :root {
         --h1-font: 3.7rem;
         --h2-font: 2.7rem;
